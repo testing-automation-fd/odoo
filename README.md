@@ -15,6 +15,7 @@ The main Odoo Apps include an [Open Source CRM](https://www.odoo.com/page/crm),
 [Project Management](https://www.odoo.com/app/project),
 [Billing &amp; Accounting](https://www.odoo.com/app/accounting),
 [Point of Sale](https://www.odoo.com/app/point-of-sale-shop),
+
 [Human Resources](https://www.odoo.com/app/employees),
 [Marketing](https://www.odoo.com/app/social-marketing),
 [Manufacturing](https://www.odoo.com/app/manufacturing),
